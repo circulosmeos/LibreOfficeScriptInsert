@@ -7,7 +7,7 @@ Use
 
      $ python LibreOfficeScriptInsert.py myDocument.ods myScript.py
 
-A copy of *myDocument.ods* will created, with the script *myScript.py* embeded in it, and with name *myDocument.with_script.ods*
+A copy of *myDocument.ods* will created, with the script *myScript.py* embedded in it, and with name *myDocument.with_script.ods*
 
 Example
 =======
@@ -16,7 +16,7 @@ For example, the script [FIFOStockSellProfitCalculator.py](https://github.com/ci
 
      $ python LibreOfficeScriptInsert.py myStocks.ods FIFOStockSellProfitCalculator.py
 
-The Calc document with the Macro script embeded will be named *myStocks.with_script.ods*
+The Calc document with the Macro script embedded will be named *myStocks.with_script.ods*
 
 License
 =======
